@@ -1,7 +1,7 @@
 name: fancy_colorful_switch
-description: "A new Flutter package project."
+description: "This widget provides a customizable switch with vibrant colors for both active and inactive states. It includes options to set the active color, inactive thumb color, active track color, and inactive track color"
 version: 0.0.1
-homepage:
+homepage: https://github.com/raja226/fancy_colorful_switch.git
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
